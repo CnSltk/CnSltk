@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently enrolled in PJATK as a Computer Science major.<br>I use Java, C++ , C# & SQL on my projects. My current focus is on improving my knowledge on these languages.<br>I am actively learning Unity for further game development projects.
+I am currently enrolled in PJATK as a Computer Science major.<br>I use Java, C++ , C#, python & SQL on my projects. My current focus is on improving my knowledge on these languages.<br>I am actively learning Unity for further game development projects.
 
 
 ## 🌐 Socials:
